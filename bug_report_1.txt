@@ -1,0 +1,10 @@
+Number
+Severety
+Environment
+Title
+Steps
+Expected Result
+Actual Result
+Link
+Bug started
+Bug reproduced
