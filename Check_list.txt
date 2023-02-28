@@ -1,0 +1,21 @@
+        "Check-list.example"
+
+--Registration--
+ -Email
+ -Social network
+ -Field validation
+
+--Authorization--
+ -User_activated
+ -User_not_activated
+ -Password_recovery
+ -Field_validation
+
+--Profile--
+ -Name_change
+ -Email_change
+ -Password_change
+ -Field_validation
+ -Subscription
+ -Account_deleting
+
